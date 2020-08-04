@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Todo-useReducer/static/css/main.cee506ac.chunk.css",
+    "main.js": "/React-Todo-useReducer/static/js/main.a7b7d4cb.chunk.js",
+    "main.js.map": "/React-Todo-useReducer/static/js/main.a7b7d4cb.chunk.js.map",
+    "runtime-main.js": "/React-Todo-useReducer/static/js/runtime-main.6637df30.js",
+    "runtime-main.js.map": "/React-Todo-useReducer/static/js/runtime-main.6637df30.js.map",
+    "static/js/2.d535c60a.chunk.js": "/React-Todo-useReducer/static/js/2.d535c60a.chunk.js",
+    "static/js/2.d535c60a.chunk.js.map": "/React-Todo-useReducer/static/js/2.d535c60a.chunk.js.map",
+    "index.html": "/React-Todo-useReducer/index.html",
+    "precache-manifest.fdef6eb94bba8d63b8ce7478da11589d.js": "/React-Todo-useReducer/precache-manifest.fdef6eb94bba8d63b8ce7478da11589d.js",
+    "service-worker.js": "/React-Todo-useReducer/service-worker.js",
+    "static/css/main.cee506ac.chunk.css.map": "/React-Todo-useReducer/static/css/main.cee506ac.chunk.css.map",
+    "static/js/2.d535c60a.chunk.js.LICENSE.txt": "/React-Todo-useReducer/static/js/2.d535c60a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6637df30.js",
+    "static/js/2.d535c60a.chunk.js",
+    "static/css/main.cee506ac.chunk.css",
+    "static/js/main.a7b7d4cb.chunk.js"
+  ]
+}
